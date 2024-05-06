@@ -9,8 +9,10 @@
 **/[Bb]uilds/
 **/[Ll]ogs/
 **/[Uu]ser[Ss]ettings/
-**/[Aa]ssets/[Cc]otton_gin_[Ff]inal/
-**/[Aa]ssets/[Ww]eaving_[Ff]inal/
+**/[Aa]ssets/[Cc]otton_gin_[Ff]inal/[Ff][Bb][Xx]
+**/[Aa]ssets/[Ww]eaving_[Ff]inal/[Ff][Bb][Xx]
+**/[Aa]ssets/[Cc]otton_gin_[Ff]inal/texture
+**/[Aa]ssets/[Ww]eaving_[Ff]inal/texture
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
